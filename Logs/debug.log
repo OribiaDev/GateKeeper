@@ -1,0 +1,7 @@
+Debug: Preparing to connect to the gateway...
+Debug: [WS => Manager] Manager was destroyed. Called by:
+Error: MANAGER_DESTROYED
+    at WebSocketManager.destroy (C:\Users\Administrator\Desktop\Servers\DiscordBots\GateKeeper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:333:54)
+    at Client.destroy (C:\Users\Administrator\Desktop\Servers\DiscordBots\GateKeeper\node_modules\discord.js\src\client\Client.js:237:13)
+    at Client.login (C:\Users\Administrator\Desktop\Servers\DiscordBots\GateKeeper\node_modules\discord.js\src\client\Client.js:226:12)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
